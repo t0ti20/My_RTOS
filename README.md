@@ -1,5 +1,19 @@
-# [RTOS Implementation](https://github.com/t0ti20/My_Implementation/tree/master/RTOS/STM32F103C8/Library/RTOS)
-Welcome to the repository for a custom-built RTOS designed to function on both ARM and AVR platforms. 
+# RTOS Implementation
+
+Welcome to the repository for a custom-built RTOS designed to function on both ARM and AVR platforms.
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Test Cases](#test-cases)
+  - [Test Case 1](#test-case-1)
+  - [Test Case 2](#test-case-2)
+  - [Test Case 3: Priority Inversion](#test-case-3-priority-inversion)
+- [Utilization Statistics](#utilization-statistics)
+- [Video Demonstration](#video-demonstration)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Author](#author)
 
 ## Description
 This RTOS has been crafted to enable multitasking capabilities in embedded systems. It provides foundational mechanisms such as task scheduling, mutex support for synchronization, context switching, and delay functionalities.
@@ -35,17 +49,13 @@ This RTOS has been extensively tested. Here are the test cases provided:
 - Note: This priority inversion scenario will be addressed and handled in the upcoming versions of this RTOS.
 - ![Screenshot 2023-10-08 150836](https://github.com/t0ti20/My_Implementation/assets/61616031/9fe45f9d-1efe-455d-8f43-1a48e71abfed)
 
-## 📊 Utilization Statistics
+## Utilization Statistics
 ![Screenshot 2023-10-08 151136](https://github.com/t0ti20/My_Implementation/assets/61616031/9e6a3529-7319-4745-bf75-8f52b2003112)
 
-
 ## Video Demonstration
-For a more comprehensive overview and a demonstration of the RTOS in action, please [watch this video](https://github.com/t0ti20/My_Implementation/assets/61616031/aeda3607-0c42-4388-ad27-9464ceeb5848).
-
+For a more comprehensive overview and a demonstration of the RTOS in action.
 
 [Video](https://github.com/t0ti20/My_Implementation/assets/61616031/aeda3607-0c42-4388-ad27-9464ceeb5848)
 
-
----
-
+## Author
 Created by Khaled El-Sayed [@t0ti20](https://github.com/t0ti20).
